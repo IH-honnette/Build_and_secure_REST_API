@@ -205,18 +205,3 @@ curl -X DELETE -u admin:password123 http://localhost:8000/transactions/1
    - Large datasets may slow down linear search
    - Dictionary lookup remains fast regardless of dataset size
 
-## 📞 Support
-
-For questions or issues:
-1. Check the troubleshooting section
-2. Review the API documentation in `docs/api_docs.md`
-3. Test with the provided curl commands
-4. Check server logs for error messages
-
-## 📄 License
-
-This project is for educational purposes. Feel free to use and modify as needed.
-
----
-
-**🎉 Ready to submit!** This repository contains everything needed for your assignment submission.
