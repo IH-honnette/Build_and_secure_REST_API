@@ -1,4 +1,4 @@
-# SMS Transactions REST API
+# Building and Securing a REST API
 
 A comprehensive REST API implementation built with Python's `http.server` module for managing SMS transaction data. This project demonstrates CRUD operations, authentication, data structure algorithms, and performance analysis.
 
