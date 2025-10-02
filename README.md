@@ -121,7 +121,7 @@ Binary Search:
 3. **O(1) Average Case**: Constant time regardless of dataset size
 4. **Memory Trade-off**: Uses more memory but provides faster access
 
-## 🧪 Testing
+##  🧪 Testing
 
 ### Manual Testing with curl
 
